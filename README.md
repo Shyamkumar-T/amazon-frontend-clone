@@ -1,15 +1,10 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ad54880-8f1c-4a87-bc9f-9f377121ffc2" /># 🛒 Amazon Frontend Clone
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d8417fa-399f-4367-809c-816c166eaf69" />
+ 🛒 Amazon Frontend Clone
 
 A responsive UI clone of Amazon’s homepage built using **HTML5 & CSS3**.
 
 🔗 **Live Demo:**  
 https://shyamkumar-t.github.io/amazon-frontend-clone/
-
----
-
-## 📸 Preview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61c4e94e-6921-4658-855a-2b16b51c6ed8" />
-
 
 
 ---
