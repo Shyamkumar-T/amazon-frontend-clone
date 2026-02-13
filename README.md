@@ -8,7 +8,8 @@ https://shyamkumar-t.github.io/amazon-frontend-clone/
 ---
 
 ## 📸 Preview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3349d1ed-fb04-4ade-975d-b52c133fde84" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61c4e94e-6921-4658-855a-2b16b51c6ed8" />
+
 
 
 ---
